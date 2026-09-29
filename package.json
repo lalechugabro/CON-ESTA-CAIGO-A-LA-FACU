@@ -1,0 +1,19 @@
+{
+  "name": "three_proyects",
+  "version": "1.0.0",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.181.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12"
+  },
+   "scripts": {
+    "dev": "vite"
+  }
+
+}

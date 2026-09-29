@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+  background-color: black;
+}
+
+/* body {
+  background: linear-gradient(
+    180deg,
+    #302a4e,
+    #e7dff0
+  );
+} */
+#creditos{
+  display: flex;
+  flex: content;
+  padding: 2px;
+  justify-content: center;
+  color: white;
+}
+#titulo{
+  display: flex;
+  flex: content;
+  padding: 20px;
+  justify-content: center;
+  font-size: 50px;
+  color: #0025B0;
+}
+article{
+  display: flex;
+}
+.creditos{
+  display: flex;
+  flex: content;
+  padding: 2px;
+  justify-content: center;
+  color: white;
+}
+p{
+  color: rgb(0, 0, 0);
+}

@@ -1,0 +1,12 @@
+#fee3d1 
+#f3c99f fondo degradado medio y piso
+#da936d
+
+#fee3d1 cil1
+#fdd48e cil2
+#f2ebe8 cil3
+
+#ded9ff dirLight 
+#fff4ef hemis
+#8b7d87 hemis
+#f9c8ff dirLight
